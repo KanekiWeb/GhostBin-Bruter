@@ -13,6 +13,8 @@
 </p>
 
 
+For education propose only
+
 ## 🔍 Features
 __Simple Features:__
 - Fast Cheking
