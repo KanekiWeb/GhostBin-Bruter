@@ -20,16 +20,16 @@ __Simple Features:__
 - Hit Saver
 
 
-#  📝 Contact  
+##  📝 Contact  
 Mail : _kaneki_pro@protonmail.com_  
 Discord : `Kaneki Web#8888` | `discord.gg/kaneki`  
 
 
-# 📚 Contributions  
+## 📚 Contributions  
 All suggestions are welcome.  
 
 
-# 📜 License
+## 📜 License
 GhostBin-Bruter si under is under licensed MIT [MIT License](https://github.com/KanekiWeb/GhostBin-Bruter/blob/master/LICENSE).
 
 
