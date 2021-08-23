@@ -12,9 +12,6 @@
   <img src="https://cdn.discordapp.com/attachments/876998702374457396/879256979795759144/unknown.png">
 </p>
 
-
-For education propose only
-
 ## 🔍 Features
 __Simple Features:__
 - Fast Cheking
@@ -31,7 +28,8 @@ Discord : `Kaneki Web#8888` | `discord.gg/kaneki`
 All suggestions are welcome.  
 
 
-## 📜 License
+## 📜 License & Warning
+GhostBin-Bruter is make for education propose only
 GhostBin-Bruter si under is under licensed MIT [MIT License](https://github.com/KanekiWeb/GhostBin-Bruter/blob/master/LICENSE).
 
 
