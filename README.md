@@ -30,7 +30,7 @@ All suggestions are welcome.
 
 ## 📜 License & Warning
 GhostBin Bruter is make for education propose only<br>
-GhostBin-Bruter is under is under licensed MIT [MIT License](https://github.com/KanekiWeb/GhostBin-Bruter/blob/master/LICENSE).
+GhostBin-Bruter is under licensed MIT [MIT License](https://github.com/KanekiWeb/GhostBin-Bruter/blob/master/LICENSE).
 
 
 <p align="center">
